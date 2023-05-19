@@ -1,4 +1,4 @@
 
-#Final Projects:
+Final Projects:
 AgeClassificationV3_1_BuildModel 
 AgeClassificationV3_ApplyRunModel
